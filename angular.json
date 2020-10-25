@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gorakh"
+    }
+  },
+  "defaultProject": "gorakh",
+  "cli": {
+    "analytics": "3ad4b3d6-ca99-4a55-9d2b-3a45ba801856"
+  }
 }
